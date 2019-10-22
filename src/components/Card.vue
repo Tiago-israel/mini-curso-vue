@@ -11,10 +11,7 @@
 
 <script>
 export default {
-  name: "card",
-  props: {
-    titulo: String
-  }
+  name: "card"
 };
 </script>
 
